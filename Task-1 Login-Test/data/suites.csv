@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test login and navigation through menu items with validation.","30973","Login and Navigation Test","","Fri Jul 04 13:43:44 IST 2025","passed","Fri Jul 04 13:44:15 IST 2025","","Report_check","",""
+"Test drag-and-drop functionality on the jQuery UI demo site.","10127","Drag and Drop Test","","Fri Jul 04 15:36:40 IST 2025","passed","Fri Jul 04 15:36:50 IST 2025","","Drag_and_Drop","",""
+"Test login functionality with valid credentials.","8286","Login Test","","Fri Jul 04 15:41:00 IST 2025","passed","Fri Jul 04 15:41:08 IST 2025","","test9","",""
+"Test login functionality with valid credentials.","12816","Login Test","","Sun Jul 06 20:41:20 IST 2025","passed","Sun Jul 06 20:41:33 IST 2025","","Practice-test-automation","",""
